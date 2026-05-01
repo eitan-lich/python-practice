@@ -1,7 +1,0 @@
-2024-01-15 02:10:01 - INFO - Test started: test_ping
-2024-01-15 02:10:02 - ERROR - ConnectionError: timeout on host 192.168.1.1
-2024-01-15 02:10:03 - INFO - Test started: test_driver_load
-2024-01-15 02:10:04 - ERROR - DriverError: failed to load vmxnet3
-2024-01-15 02:10:05 - WARNING - Slow response: 3.1s
-2024-01-15 02:10:06 - ERROR - ConnectionError: timeout on host 192.168.1.2
-2024-01-15 02:10:07 - ERROR - DriverError: failed to load vmxnet3
